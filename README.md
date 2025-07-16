@@ -17,7 +17,6 @@ Using time series and machine learning models, the project provides forecasts of
 - **Source**: Washington State Department of Licensing (DOL)
 - **Date Range**: January 2017 – February 2024
 - **Frequency**: Monthly
-- **Granularity**: By County and Vehicle Type
 
 ### Key Features:
 | Column | Description |
