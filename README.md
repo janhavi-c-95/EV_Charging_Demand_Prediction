@@ -24,6 +24,7 @@ Using time series and machine learning models, the project provides forecasts of
 |--------|-------------|
 | `Date` | Monthly registration date |
 | `County` | County where the vehicle is registered |
+| `State` | State where the vehicle is registered |
 | `Vehicle Primary Use` | Passenger or Truck |
 | `Battery Electric Vehicles (BEVs)` | Fully electric vehicle count |
 | `Plug-In Hybrid Electric Vehicles (PHEVs)` | Hybrid EVs count |
